@@ -3,6 +3,7 @@
     "cpu": true,
     "opencl": false,
     "cuda": false,
+    "max-cpu-usage": 85,
     "pools": [
         {
             "coin": null,
